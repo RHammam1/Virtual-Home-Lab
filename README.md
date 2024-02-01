@@ -46,7 +46,7 @@ This project documents the setup and configuration of a home lab environment usi
 
 
 ### 7. Powershell script for creating users
-- Thanks to Josh Madakor for this public script available from his [GitHub]([https://pages.github.com/](https://github.com/joshmadakor1)
+- Thanks to Josh Madakor for this public script available from his [GitHub]([https://pages.github.com/](https://github.com/joshmadakor1/))
 - Opened an elevated PowerShell, navigated to the unzipped folder containing the script.
 - Ran the script creating ~1000 users in a organized unit named '_USERS' simulating a corporate enviorment.
 ![2024-02-01 16-09-58](https://github.com/RHammam1/Virtual-Home-Lab/assets/56901837/bf256077-968d-435a-bd2c-a1f00b595322)
