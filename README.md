@@ -1,4 +1,4 @@
-# Home Lab Setup with VirtualBox and Active Directory
+# Home Lab Setup with Virtual Box and Active Directory
 
 ## Overview
 
