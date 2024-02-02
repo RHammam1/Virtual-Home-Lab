@@ -53,7 +53,8 @@ This project documents the setup and configuration of a home lab environment usi
 
 ### 8. Onboarding the client machine
 - In the Virtual Box settings for the client machine set the network to 'internal network'
-- Started up the machine, ran ipconfig, and pinged a website in Command Prompt to ensure our network properties check out. ![image](https://github.com/RHammam1/Virtual-Home-Lab/assets/56901837/41d6cb11-2ae1-4ab2-9ce5-768a406ee1d7)
+- Started up the machine, ran ipconfig, and pinged a website in Command Prompt to ensure our network properties check out.
+   ![image](https://github.com/RHammam1/Virtual-Home-Lab/assets/56901837/41d6cb11-2ae1-4ab2-9ce5-768a406ee1d7)
 - Headed into system properties on the client machine to change the machine's domain to 'mydomain.com' and signed in with an account created earlier.
 - In the DHCP - Address Leases on the DC machine, we'll see the address lease of the newly connected client machine.
    ![image](https://github.com/RHammam1/Virtual-Home-Lab/assets/56901837/5d80278f-9115-4114-bf59-f9e0fb3d40b0)
