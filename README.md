@@ -57,6 +57,7 @@ This project documents the setup and configuration of a home lab environment usi
    ![image](https://github.com/RHammam1/Virtual-Home-Lab/assets/56901837/41d6cb11-2ae1-4ab2-9ce5-768a406ee1d7)
 - Headed into system properties on the client machine to change the machine's domain to 'mydomain.com' and signed in with an account created earlier.
 - In the DHCP - Address Leases on the DC machine, we'll see the address lease of the newly connected client machine.
+  
    ![image](https://github.com/RHammam1/Virtual-Home-Lab/assets/56901837/5d80278f-9115-4114-bf59-f9e0fb3d40b0)
   
 - Along with the computer name in Active Directory Users and Computers - Computers
